@@ -1,4 +1,4 @@
-# MageBytes_Base Module
+# MageBytes Base Module
 
 ## Overview
 
