@@ -1,4 +1,4 @@
-# MageBytes Base Module
+# MageBytes_Base Module
 
 ## Overview
 
@@ -12,8 +12,8 @@
 
 ## Requirements
 
-- **Magento Version**: 2.x
-- **PHP Version**: Compatible with your Magento version (PHP 7.4, 8.1, 8.2 or 8.3)
+- **Magento Version**: 2.4.x
+- **PHP Version**: Compatible with your Magento version (PHP 7.4, 8.1, 8.2 0r 8.3)
 
 ## Installation
 
@@ -40,7 +40,8 @@ Follow these steps to install the MageBytes_Base module manually:
    php bin/magento cache:clean
    php bin/magento cache:flush
    ```
-   4. **Support**
+4. **Support**
 - For any issues or support requests, please contact MageBytes:
 - **Email:** info@magebytes.com
 - **Website:** [MageBytes](https://www.magebytes.com)
+
