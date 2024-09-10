@@ -13,7 +13,7 @@
 ## Requirements
 
 - **Magento Version**: 2.x
-- **PHP Version**: Compatible with your Magento version (PHP 7.4, 8.1, 8.2 0r 8.3 recommended)
+- **PHP Version**: Compatible with your Magento version (PHP 7.4, 8.1, 8.2 or 8.3)
 
 ## Installation
 
