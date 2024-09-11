@@ -1,8 +1,8 @@
-# MageBytes_Base Module
+# MageBytes Base Module
 
 ## Overview
 
-`MageBytes_Base` is a foundational module created by MageBytes that provides essential functionalities required by other MageBytes modules. This module serves as a base dependency for various MageBytes extensions, ensuring compatibility and shared resources across different modules.
+`Magebytes_Base` is a foundational module created by MageBytes that provides essential functionalities required by other MageBytes modules. This module serves as a base dependency for various MageBytes extensions, ensuring compatibility and shared resources across different modules.
 
 ## Features
 
@@ -13,7 +13,7 @@
 ## Requirements
 
 - **Magento Version**: 2.4.x
-- **PHP Version**: Compatible with your Magento version (PHP 7.4, 8.1, 8.2 0r 8.3)
+- **PHP Version**: Compatible with your Magento version (PHP 7.4, 8.1, 8.2 or 8.3)
 
 ## Installation
 
@@ -23,11 +23,11 @@ Follow these steps to install the MageBytes_Base module manually:
 
 1. **Download the Module:**
 
-   Download the latest version of the `MageBytes_Base` module from the MageBytes repository.
+   Download the latest version of the `Magebytes_Base` module from the MageBytes repository.
 
 2. **Extract the Files:**
 
-   Extract the downloaded files and place them in the `app/code/MageBytes/Base` directory of your Magento installation.
+   Extract the downloaded files and place them in the `app/code/Magebytes/Base` directory of your Magento installation.
 
 3. **Enable the Module:**
 
