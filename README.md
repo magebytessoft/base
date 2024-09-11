@@ -34,7 +34,7 @@ Follow these steps to install the MageBytes_Base module manually:
    Run the following commands in the Magento root directory to enable the module:
 
    ```bash
-   php bin/magento module:enable MageBytes_Base
+   php bin/magento module:enable Magebytes_Base
    php bin/magento setup:upgrade
    php bin/magento setup:static-content:deploy
    php bin/magento cache:clean
